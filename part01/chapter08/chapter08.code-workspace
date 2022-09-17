@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.analysis.extraPaths": [
+			"C:\\Users\\womba\\Workspace\\Python\\part01\\chapter08"
+		],
+		"python.autoComplete.extraPaths": [
+			
+			"C:\\Users\\womba\\Workspace\\Python\\part01\\chapter08"
+		]
+	}
+}
